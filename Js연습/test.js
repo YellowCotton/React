@@ -1,5 +1,5 @@
 
-function test() {
-    console.log("웹후크 테스트");
+function login() {
+    console.log("로그인기능");
 
 }
